@@ -1,5 +1,5 @@
 # 💫 About Me:
-Şirkətimiz developer komandası ilə İT xidmətləri göstərir.
+Şirkətimiz Web Mobil proqram xidmətləri göstərir.
 
 
 ## 🌐 Socials:
