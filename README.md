@@ -1,5 +1,5 @@
 # 💫 About Me:
-Şirkətimiz Web Mobil proqram xidmətləri göstərir.
+Cyber Security and Programing Platform.
 
 
 ## 🌐 Socials:
