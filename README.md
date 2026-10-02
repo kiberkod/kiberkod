@@ -2,8 +2,6 @@
 
 # 🟢 KiberKod MMC
 
-**Lokal · Təhlükəsiz · Miqyaslana bilən**
-
 Biznes proseslərini rəqəmsallaşdıran inkişaf studiyası.
 POS · LMS · ERP · ödəniş inteqrasiyaları · AI & OCR.
 
@@ -14,23 +12,12 @@ POS · LMS · ERP · ödəniş inteqrasiyaları · AI & OCR.
 
 ---
 
-### 🚀 Əsas məhsullar
-
-| Məhsul | Sahə |
-|--------|------|
-| **POSNET** | Çox-sahəli POS & kassa platforması |
-| **Sina** | Onlayn təhsil (LMS) |
-| **Globix** | Mühasibatlıq & logistika |
-| **Scapp** | Mobil ekosistem (store, delivery, taxi) |
-
-> Tam portfolio və layihələr → **[kiberkod.az](https://kiberkod.az)**
-
----
-
 ### ⚙️ Stack
 
 `TypeScript` · `React / Next.js` · `Node.js` · `Go` · `Python`
 `PostgreSQL` · `Docker` · `Kubernetes` · `Linux` · `CI/CD`
+
+> Layihələr və portfolio → **[kiberkod.az](https://kiberkod.az)**
 
 ---
 
