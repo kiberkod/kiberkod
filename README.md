@@ -8,19 +8,14 @@ POS · LMS · ERP · ödəniş inteqrasiyaları · AI & OCR.
 [![Website](https://img.shields.io/badge/kiberkod.az-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiberkod.az)
 [![Email](https://img.shields.io/badge/info@kiberkod.az-4f46e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@kiberkod.az)
 
-</div>
+<br>
 
----
+### 👇 Layihələr və portfolio
 
-### ⚙️ Stack
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolioma_bax-1e293b?style=for-the-badge&labelColor=06b6d4)](https://kiberkod.az)
 
-`TypeScript` · `React / Next.js` · `Node.js` · `Go` · `Python`
-`PostgreSQL` · `Docker` · `Kubernetes` · `Linux` · `CI/CD`
+<br>
 
-> Layihələr və portfolio → **[kiberkod.az](https://kiberkod.az)**
-
----
-
-<div align="center">
 <sub>Full-Stack · System Architecture · DevOps · Cybersecurity</sub>
+
 </div>
