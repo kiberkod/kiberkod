@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟢 KiberKod MMC
+# KiberKod Texnologiya
 
 **Bizneslər üçün rəqəmsal həllər**
 
