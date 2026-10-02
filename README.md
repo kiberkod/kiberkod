@@ -2,8 +2,12 @@
 
 # 🟢 KiberKod MMC
 
-Biznes proseslərini rəqəmsallaşdıran inkişaf studiyası.
-POS · LMS · ERP · ödəniş inteqrasiyaları · AI & OCR.
+**◎ Bizneslər üçün rəqəmsal həllər**
+
+◇ Web • Mobil • Desktop proqram təminatı
+◇ ERP • LMS • E-commerce
+◇ Server • Cloud
+◇ Pentest • Kibertəhlükəsizlik
 
 [![Website](https://img.shields.io/badge/kiberkod.az-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiberkod.az)
 [![Email](https://img.shields.io/badge/info@kiberkod.az-4f46e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@kiberkod.az)
