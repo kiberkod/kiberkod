@@ -11,9 +11,9 @@
 
 <br>
 
-### 👇 Layihələr və portfolio
+#### Layihələr və Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolioma_bax-1e293b?style=for-the-badge&labelColor=06b6d4)](https://kiberkod.az)
+[![Portfolio](https://img.shields.io/badge/Rəsmi_Sayta_Keçid-1e293b?style=for-the-badge&labelColor=06b6d4)](https://kiberkod.az)
 
 <br>
 
